@@ -1,0 +1,16 @@
+.search-box {
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 40px;
+    width: 170px;
+    padding: 2px 23px 2px 30px;
+    outline: 0;
+    background-color: #f5f5f5;
+    margin: 20px;
+}
+
+
+.search-box:hover, .search:focus {
+    border: 1.5px solid #000;
+    background-color: white;
+  }
